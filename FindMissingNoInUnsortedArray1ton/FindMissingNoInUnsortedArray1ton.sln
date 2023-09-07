@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingNoInUnsortedArray1ton", "FindMissingNoInUnsortedArray1ton.csproj", "{5CCBFA4E-FE66-44AE-A536-1EFF12E32F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCBFA4E-FE66-44AE-A536-1EFF12E32F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCBFA4E-FE66-44AE-A536-1EFF12E32F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCBFA4E-FE66-44AE-A536-1EFF12E32F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCBFA4E-FE66-44AE-A536-1EFF12E32F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D11FC2E-78CD-443B-83AB-84C341A7C752}
+	EndGlobalSection
+EndGlobal
