@@ -17,9 +17,9 @@ namespace QuickSort
             int j = end;
             while(i<j)
             {
-                while(arr[i] < arr[pivot])
+                while(arr[i] <= arr[pivot] && i<end)
                     i++;
-                while(arr[j] > arr[pivot])
+                while(arr[j] > arr[pivot] && j>=0)
                     j--;
                 if(i<j)
                 {
