@@ -28,7 +28,7 @@ namespace _40MinSubarrayLengthSuchThatIfWeSortThissubarrayWholeArraybeSorted
                 end--;
             }
 
-            for (int i = start + 1; i <end; i++)
+            for (int i = start ; i <=end; i++)
             {
                 min = Math.Min(min, arr[i]);
                 max = Math.Max(max, arr[i]);
